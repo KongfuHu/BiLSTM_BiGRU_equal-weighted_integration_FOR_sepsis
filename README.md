@@ -39,8 +39,30 @@ The model automatically performs **mean imputation** and **standardization**, so
 
 ---
 
+## 🔒 Data Availability and Ethics Statement
+
+The real patient-level protein biomarker datasets (PKUTH and UKB cohorts) used in
+this study contain protected health information and are governed by institutional
+and national ethical regulations. As such, **the original datasets cannot be shared
+openly**.
+
+To support reproducibility, we provide **synthetic dummy datasets** that preserve
+the structure and variable definitions of the real data but do not contain any
+patient information.
+
+Access to the original datasets requires:
+1. A formal data-use request,
+2. Approval from the corresponding author's institution,
+3. Completion of all necessary ethical review procedures.
+
+Researchers who wish to request access may contact the corresponding author.
+
+---
+
 If you need GPU acceleration, install the corresponding CUDA-enabled PyTorch version from:
 https://pytorch.org/get-started/locally/
+
+---
 
 ## 🚀 Quick Start
 
