@@ -20,7 +20,7 @@ The model integrates **Bidirectional LSTM (BiLSTM)** and **Bidirectional GRU (Bi
 This model provides a simple, interpretable, and robust sequence-based framework for protein-level sepsis classification.
 
 > **Note**: Real patient data is not included due to privacy restrictions.  
-> The code expects input in the same structure as `data_model_141.xlsx`.
+> The code expects input in the same structure as `dummy_data_ukb.xlsx`.
 
 ---
 
