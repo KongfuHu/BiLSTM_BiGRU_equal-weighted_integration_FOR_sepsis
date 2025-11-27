@@ -39,6 +39,9 @@ The model automatically performs **mean imputation** and **standardization**, so
 
 ---
 
+If you need GPU acceleration, install the corresponding CUDA-enabled PyTorch version from:
+https://pytorch.org/get-started/locally/
+
 ## 🚀 Quick Start
 
 ```bash
