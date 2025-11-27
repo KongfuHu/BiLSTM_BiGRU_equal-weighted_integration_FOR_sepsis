@@ -3,9 +3,6 @@
 使用 BiLSTM 和 BiGRU 对 data_model_141.xlsx 进行
 感染(0) vs 脓毒症(1) 二分类，并在测试集上评估和集成，
 同时导出测试集上每个样本的预测概率。
-
-如果同目录下存在 classic_models_test_probs_141.xlsx，
-则自动与传统模型的预测概率合并，生成 all_models_test_probs_141.xlsx。
 """
 
 import os
