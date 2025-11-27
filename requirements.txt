@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+openpyxl
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+openpyxl
